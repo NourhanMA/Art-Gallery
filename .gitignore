@@ -1,0 +1,5 @@
+Server/node_modules
+Client/admin/node_modules
+Client/store/node_modules
+Server/.env
+Client/admin/node_modules/.bin/ansi-html
